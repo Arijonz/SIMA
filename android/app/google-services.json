@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914280867576",
+    "project_id": "sima-siwa12",
+    "storage_bucket": "sima-siwa12.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914280867576:android:6f3c18254a0ed57fdd7d0d",
+        "android_client_info": {
+          "package_name": "com.example.sima"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzixFjFwupYb9R16NjHLs2ikCkDgJDVvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
